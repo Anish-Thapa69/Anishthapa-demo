@@ -1,4 +1,4 @@
 # Anishthapa-demo
 This is my first Repository
-Author - Anish Thapa
+Author - Anish Thapa (Project)
 
